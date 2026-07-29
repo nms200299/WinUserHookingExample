@@ -9,3 +9,4 @@
 |후킹|[IAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_IAT)|[Blog](https://blog.naver.com/nms200299/224098620006)|
 ||[EAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_EAT)|[Blog](https://blog.naver.com/nms200299/224129850433)|
 ||[Trampoline Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_Trampoline)|[Blog](https://blog.naver.com/nms200299/224154215713)|
+||[Debugger-Based API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_Debugging%20Attach)|[Blog](https://blog.naver.com/nms200299/224362158122)|
