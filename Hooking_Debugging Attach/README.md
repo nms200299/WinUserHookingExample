@@ -3,11 +3,11 @@
 * 작성자 : 2N(nms200299)
 * 블로그 포스팅 (개념 정리) :
 
-  * 
+  * https://blog.naver.com/nms200299/224362158122
 
 ### 시연 영상 :
 
-
+https://github.com/user-attachments/assets/f2ecd7ed-8a80-47ac-9d98-3cce3f1b3337
 
 ### 구현 내용 :
 
