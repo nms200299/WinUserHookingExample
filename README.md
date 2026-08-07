@@ -4,9 +4,9 @@
 
 |분류|제목|포스팅|
 |---|----|---|
-|DLL 인젝션|[CreateRemoteThread를 이용한 DLL 인젝션](https://github.com/nms200299/WinUserSystemExample/tree/main/DLL_Injection_CreateRemoteThread)|[Blog](https://blog.naver.com/nms200299/224091506940)|
-||[SetWindowsHookEx를 이용한 Global DLL 인젝션](https://github.com/nms200299/WinUserSystemExample/tree/main/DLL_Injection_SetWindowsHookEx)|[Blog](https://blog.naver.com/nms200299/224107869569)|
-|후킹|[IAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_IAT)|[Blog](https://blog.naver.com/nms200299/224098620006)|
-||[EAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_EAT)|[Blog](https://blog.naver.com/nms200299/224129850433)|
-||[Trampoline Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_Trampoline)|[Blog](https://blog.naver.com/nms200299/224154215713)|
-||[Debugger-Based API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking_Debugging%20Attach)|[Blog](https://blog.naver.com/nms200299/224362158122)|
+|DLL 인젝션|[CreateRemoteThread를 이용한 DLL 인젝션](https://github.com/nms200299/WinUserSystemExample/tree/main/DLL_Injection/CreateRemoteThread)|[Blog](https://blog.naver.com/nms200299/224091506940)|
+||[SetWindowsHookEx를 이용한 Global DLL 인젝션](https://github.com/nms200299/WinUserSystemExample/tree/main/DLL_Injection/SetWindowsHookEx)|[Blog](https://blog.naver.com/nms200299/224107869569)|
+|후킹|[IAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking/IAT_Hooking)|[Blog](https://blog.naver.com/nms200299/224098620006)|
+||[EAT Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking/EAT_Hooking)|[Blog](https://blog.naver.com/nms200299/224129850433)|
+||[Trampoline Hooking을 이용한 API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking/Trampoline_Hooking)|[Blog](https://blog.naver.com/nms200299/224154215713)|
+||[Debugger-Based API 후킹](https://github.com/nms200299/WinUserSystemExample/tree/main/Hooking/Debugging_Attach_Hooking)|[Blog](https://blog.naver.com/nms200299/224362158122)|
