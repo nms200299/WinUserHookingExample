@@ -3,11 +3,13 @@
 * 작성자 : 2N(nms200299)
 * 블로그 포스팅 (개념 정리) :
 
-  * 
+  * https://blog.naver.com/nms200299/224372366042
 
 ### 테스트 :
 
 * Windows 11 25H2 x64
+
+<img width="450" height="200" alt="IMG" src="https://github.com/user-attachments/assets/b5f1369f-a49c-46e0-b8ab-334e44c48a85" />
 
 ### 구현 내용 :
 
