@@ -3,12 +3,12 @@
 * 작성자 : 2N(nms200299)
 * 블로그 포스팅 (개념 정리) :
 
-  * 
+  * https://blog.naver.com/nms200299/224372163001
 
 ### 테스트 :
 
-* Windows 11 25H2 x64 
-
+* Windows 11 25H2 x64
+<img width="358" height="276" alt="IMG" src="https://github.com/user-attachments/assets/5524bf0e-2d10-4897-bb6f-4e2fd5e55de5" />
 
 ### 구현 내용 :
 
